@@ -30,7 +30,7 @@ export default function LandingPage(){
           <a href="https://www.linkedin.com/in/rocio-regina-dev/" target="_blank" rel="noreferrer">
             <FaLinkedin size={70}/>
           </a>
-          <a href="../../../files/rocioregina-resume.pdf" download>
+          <a href="../../../public/rocioregina-resume.pdf" download>
             <FaFileDownload size={60}/>
           </a>
         </div>
